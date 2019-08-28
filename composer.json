@@ -1,0 +1,9 @@
+{
+    "name": "joao/dev_uni",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aula\\": "src\\"
+        }
+    }
+}
